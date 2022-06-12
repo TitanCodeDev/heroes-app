@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120.0" height="800.0" viewBox="650.0 -1950.0 1120.0 800.0" version="1.1">
+<rect x="650.0" y="-1950.0" width="1120.0" height="800.0" fill="rgb(255,255,255)"/>
+<g id="g19729368">
+<polygon id="s182061873" points="820.0,-1920.0 960.0,-1920.0 960.0,-1820.0 820.0,-1820.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s119923222" d="M 820.0,-1895.0 960.0,-1895.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s151529367" d="M 820.0,-1845.0 960.0,-1845.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t19729368">
+<text xml:space="preserve" x="873.0" y="-1864.5039" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14">Index</text>
+</g>
+</g>
+<g id="g194193773">
+<polygon id="s194382242" points="820.0,-1780.0 960.0,-1780.0 960.0,-1680.0 820.0,-1680.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s186492467" d="M 820.0,-1755.0 960.0,-1755.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s45448688" d="M 820.0,-1705.0 960.0,-1705.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t194193773">
+<text xml:space="preserve" x="856.5" y="-1724.5039" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14">AppRouter</text>
+</g>
+</g>
+<g id="g189132649">
+<polygon id="s267329006" points="680.0,-1640.0 820.0,-1640.0 820.0,-1540.0 680.0,-1540.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s134378127" d="M 680.0,-1615.0 820.0,-1615.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s25987356" d="M 680.0,-1565.0 820.0,-1565.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t189132649">
+<text xml:space="preserve" x="711.5" y="-1584.5039" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14">LoginScreen</text>
+</g>
+</g>
+<g id="g38082853">
+<polygon id="s213068538" points="1240.0,-1640.0 1380.0,-1640.0 1380.0,-1540.0 1240.0,-1540.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s113092779" d="M 1240.0,-1615.0 1380.0,-1615.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s124197640" d="M 1240.0,-1565.0 1380.0,-1565.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t38082853">
+<text xml:space="preserve" x="1253.5" y="-1584.5039" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14">DashboardRoutes</text>
+</g>
+</g>
+<g id="g22225569">
+<polygon id="s242810054" points="1060.0,-1460.0 1200.0,-1460.0 1200.0,-1360.0 1060.0,-1360.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s229385351" d="M 1060.0,-1435.0 1199.9993,-1435.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s215408564" d="M 1060.0,-1385.0 1199.9993,-1385.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t22225569">
+<text xml:space="preserve" x="1088.0" y="-1404.5039" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14">MarvelScreen</text>
+</g>
+</g>
+<g id="g148785117">
+<polygon id="s41426770" points="1600.0,-1460.0 1740.0,-1460.0 1740.0,-1360.0 1600.0,-1360.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s35422755" d="M 1600.0001,-1434.9998 1740.0,-1434.9998 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s266093344" d="M 1600.0001,-1385.0 1740.0,-1385.0001 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t148785117">
+<text xml:space="preserve" x="1627.5" y="-1404.5039" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14">SearchScreen</text>
+</g>
+</g>
+<g id="g133989593">
+<polygon id="s265608862" points="1420.0,-1460.0 1560.0,-1460.0 1560.0,-1360.0 1420.0,-1360.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s95100287" d="M 1420.0,-1435.0 1560.0002,-1435.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s202535244" d="M 1420.0,-1385.0 1560.0002,-1385.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t133989593">
+<text xml:space="preserve" x="1454.0" y="-1404.5039" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14">HeroScreen</text>
+</g>
+</g>
+<g id="g254252437">
+<polygon id="s162285226" points="880.0,-1460.0 1020.0,-1460.0 1020.0,-1360.0 880.0,-1360.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s224268955" d="M 880.0,-1435.0 1020.0002,-1435.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s161175096" d="M 880.0,-1385.0 1020.0002,-1385.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t254252437">
+<text xml:space="preserve" x="926.5" y="-1404.5039" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14">NavBar</text>
+</g>
+</g>
+<g id="g45676049">
+<polygon id="s98575222" points="1240.0,-1460.0 1380.0,-1460.0 1380.0,-1360.0 1240.0,-1360.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s243350903" d="M 1240.0,-1435.0 1380.0,-1435.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s248225252" d="M 1240.0,-1385.0 1380.0,-1385.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t45676049">
+<text xml:space="preserve" x="1280.0" y="-1404.5039" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14">DCScreen</text>
+</g>
+</g>
+<g id="g153477709">
+<polygon id="s77791490" points="1160.0,-1280.0 1300.0,-1280.0 1300.0,-1180.0 1160.0,-1180.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s222444051" d="M 1160.0,-1255.0 1300.0,-1255.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s9876560" d="M 1160.0,-1205.0 1300.0,-1205.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t153477709">
+<text xml:space="preserve" x="1203.5" y="-1224.5039" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14">HeroList</text>
+</g>
+</g>
+<g id="g16471625">
+<polygon id="s79965006" points="1600.0,-1280.0 1740.0,-1280.0 1740.0,-1180.0 1600.0,-1180.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s151807087" d="M 1600.0,-1255.0 1740.0,-1255.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<path id="s230344060" d="M 1600.0,-1205.0 1740.0,-1205.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t16471625">
+<text xml:space="preserve" x="1640.0" y="-1224.5039" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14">HeroCard</text>
+</g>
+</g>
+<g id="la177868293">
+<path id="s177868293" d="M 890.0,-1820.0 890.0,-1780.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t177868293">
+<text xml:space="preserve" x="894.0" y="-1794.5039" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14"/>
+</g>
+</g>
+<g id="la44357771">
+<path id="s44357771" d="M 960.0,-1730.0 1310.0,-1730.0 1310.0,-1640.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t44357771">
+<text xml:space="preserve" x="1184.0" y="-1737.794" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14"/>
+</g>
+</g>
+<g id="la11320680">
+<path id="s11320680" d="M 820.0,-1730.0 750.0,-1730.0 750.0,-1640.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t11320680">
+<text xml:space="preserve" x="746.0" y="-1727.794" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14"/>
+</g>
+</g>
+<g id="la28476801">
+<path id="s28476801" d="M 1240.0,-1590.0 950.0001,-1590.0 950.0001,-1460.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t28476801">
+<text xml:space="preserve" x="1026.0" y="-1597.794" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14"/>
+</g>
+</g>
+<g id="la7755302">
+<path id="s7755302" d="M 1270.0,-1540.0 1270.0,-1500.0 1129.9996,-1500.0 1129.9996,-1460.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t7755302">
+<text xml:space="preserve" x="1199.9998" y="-1507.794" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14"/>
+</g>
+</g>
+<g id="la134640231">
+<path id="s134640231" d="M 1350.0,-1540.0 1350.0,-1500.0 1490.0001,-1500.0 1490.0001,-1460.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t134640231">
+<text xml:space="preserve" x="1420.0" y="-1507.794" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14"/>
+</g>
+</g>
+<g id="la71583764">
+<path id="s71583764" d="M 1380.0,-1590.0 1670.0,-1590.0 1670.0,-1460.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t71583764">
+<text xml:space="preserve" x="1594.0" y="-1597.794" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14"/>
+</g>
+</g>
+<g id="la42006717">
+<path id="s42006717" d="M 1310.0,-1540.0 1310.0,-1460.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t42006717">
+<text xml:space="preserve" x="1314.0" y="-1494.5039" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14"/>
+</g>
+</g>
+<g id="la199339698">
+<path id="s199339698" d="M 1129.9996,-1360.0 1129.9996,-1320.0 1230.0,-1320.0 1230.0,-1280.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t199339698">
+<text xml:space="preserve" x="1179.9998" y="-1327.794" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14"/>
+</g>
+</g>
+<g id="la33410563">
+<path id="s33410563" d="M 1310.0,-1360.0 1310.0,-1320.0 1230.0,-1320.0 1230.0,-1280.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t33410563">
+<text xml:space="preserve" x="1270.0" y="-1327.794" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14"/>
+</g>
+</g>
+<g id="la120050048">
+<path id="s120050048" d="M 1670.0,-1360.0 1670.0,-1280.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t120050048">
+<text xml:space="preserve" x="1674.0" y="-1314.5039" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14"/>
+</g>
+</g>
+<g id="la113861561">
+<path id="s113861561" d="M 1300.0,-1230.0 1600.0,-1230.0 " fill="none" stroke-width="2.0" stroke="rgb(0,0,0)"/>
+<g id="t113861561">
+<text xml:space="preserve" x="1450.0" y="-1237.794" font-family="Sans,Helvetica" fill="rgb(0,0,0)" font-size="14"/>
+</g>
+</g>
+</svg>
